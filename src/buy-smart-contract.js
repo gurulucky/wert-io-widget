@@ -15,7 +15,7 @@ const privateKey = '0x687079c151720e44c97b40c00ac257699fa4fc2c96ef617d964113c059
 const signedData = signSmartContractData({
   address: '0x96D5990185022212d367A0e09263B12Dbb4EE06A',
   commodity: 'ETH',
-  commodity_amount: '0.3',
+  commodity_amount: '0.002',
   pk_id: 'key1',
   sc_address: '0xC545CEae428785a5AE77bfF262600deC7F7d76d2',
   sc_id: uuidv4(), // must be unique for any request
