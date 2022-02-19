@@ -11,7 +11,7 @@ window.Buffer = Buffer; // needed to use `signSmartContractData` in browser
 */
 const privateKey = '0x57466afb5491ee372b3b30d82ef7e7a0583c9e36aef0f02435bd164fe172b1d3';
 const signedData = signSmartContractData({
-  address: '0xCe9499b23a087d2494956C33a064E075EC23dafc',
+  address: '0xc5Da0445c213CF71E04ad5af2E14d7E9bF114f7E',
   commodity: 'ETH',
   commodity_amount: '0.002',
   pk_id: 'key1',
